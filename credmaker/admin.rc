@@ -1,0 +1,17 @@
+export OS_AUTH_RL=http://controller:35357/v2/
+export OS_IDENTITY_API_VERSION=3
+export OS_PROJECT_NAME=myproject
+export OS_AUTH_RL=HTTP://CONTROLLER:35357/V2/
+export OS_IDENTITY_API_VERSION=3
+export OS_PROJECT_NAME=myproject
+export OS_AUTH_RL=http://controller:35357/v2/
+export OS_IDENTITY_API_VERSION=3
+export OS_PROJECT_NAME=myproject
+export OS_PROJECT_DOMAIN_NAME=default
+export OS_AUTH_RL=http://controller:35357/v2/
+export OS_IDENTITY_API_VERSION=3
+export OS_PROJECT_NAME=myproject
+export OS_PROJECT_DOMAIN_NAME=default
+export OS_USERNAME=admin
+export OS_USER_DOMAIN_NAME=default
+export OS_PASSWORD=alta3
